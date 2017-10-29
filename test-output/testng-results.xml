@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9088" started-at="2017-10-29T19:10:36Z" finished-at="2017-10-29T19:10:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9088" started-at="2017-10-29T19:10:36Z" finished-at="2017-10-29T19:10:45Z">
+      <class name="Tests.googleHomePageTest">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:Tests.googleHomePageTest@51efea79]" name="Initialize" is-config="true" duration-ms="3188" started-at="2017-10-30T00:40:36Z" finished-at="2017-10-30T00:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="Should_Navigate_To_Home_Page()[pri:0, instance:Tests.googleHomePageTest@51efea79]" name="Should_Navigate_To_Home_Page" duration-ms="2816" started-at="2017-10-30T00:40:39Z" finished-at="2017-10-30T00:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Navigate_To_Home_Page -->
+        <test-method status="PASS" signature="Should_Search_For_Word()[pri:0, instance:Tests.googleHomePageTest@51efea79]" name="Should_Search_For_Word" duration-ms="2320" started-at="2017-10-30T00:40:42Z" finished-at="2017-10-30T00:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Search_For_Word -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Tests.googleHomePageTest@51efea79]" name="cleanUp" is-config="true" duration-ms="731" started-at="2017-10-30T00:40:44Z" finished-at="2017-10-30T00:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- Tests.googleHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
