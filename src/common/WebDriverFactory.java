@@ -7,7 +7,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class WebDriverFactory {
 	
-	private static String driversDirectory = "src\\common\\WebDrivers";
+	private static String driversDirectory = "drivers";
 	
 	public static WebDriver getWebDriver(WebDriverTypes type) {
 		switch (type) {
